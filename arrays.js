@@ -16,9 +16,7 @@ console.log(clothes)
 
 //creates an empty object literal called favCar
 
-var favCar = {
-    color : 'orange',
-    covertible : 'false',
-
-};
+var favCar = {};
+favCar.color = 'orange';
+favCar.covertible = false;
 console.log(favCar);
